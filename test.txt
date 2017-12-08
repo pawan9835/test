@@ -1,1 +1,1 @@
-write unit test for java in JUnit framework and AngualrJs in jasmine framework
+write unit test for java in JUnit framework and AngualrJs in jasmine 2.0 framework
